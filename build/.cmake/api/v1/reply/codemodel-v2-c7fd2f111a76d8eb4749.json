@@ -1,0 +1,150 @@
+{
+	"configurations" : 
+	[
+		{
+			"abstractTargets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "c10::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-c10-Debug-01b2934c25a0226b8536.json",
+					"name" : "c10",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "caffe2::mkl::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-caffe2__mkl-Debug-83b829e509899490ef9c.json",
+					"name" : "caffe2::mkl",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "caffe2::mkldnn::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-caffe2__mkldnn-Debug-f1dd01e31e43f9275ce3.json",
+					"name" : "caffe2::mkldnn",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "dummy::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-dummy-Debug-7eaf32bcc4b92ce6f0c1.json",
+					"name" : "dummy",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "headeronly::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-headeronly-Debug-572a20a323052a4b5f74.json",
+					"name" : "headeronly",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "torch::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-torch-Debug-b447e491cc026791ad0f.json",
+					"name" : "torch",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "torch_cpu::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-torch_cpu-Debug-6a31335637734047c76b.json",
+					"name" : "torch_cpu",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "torch_cpu_library::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-torch_cpu_library-Debug-dd0e812709cf5dd162a1.json",
+					"name" : "torch_cpu_library",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "torch_library::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-torch_library-Debug-00d4e4080cf2d3f458f0.json",
+					"name" : "torch_library",
+					"projectIndex" : 0
+				}
+			],
+			"directories" : 
+			[
+				{
+					"abstractTargetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8
+					],
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-9ad1a58d4644cf6543fa.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.18"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"abstractTargetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "scatter-best-fit",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "scatter-best-fit::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-scatter-best-fit-Debug-f2359e04153694c7d25c.json",
+					"name" : "scatter-best-fit",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/batabutter/cpp/scatterer_best_fit/build",
+		"source" : "/home/batabutter/cpp/scatterer_best_fit"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 9
+	}
+}

@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/batabutter/cpp/scatterer_best_fit/build",
+  "command": "/usr/bin/g++ -DUSE_C10D_GLOO -DUSE_DISTRIBUTED -DUSE_RPC -DUSE_TENSORPIPE -isystem /home/batabutter/libtorch/include -isystem /home/batabutter/libtorch/include/torch/csrc/api/include -g -std=gnu++17 -o CMakeFiles/scatter-best-fit.dir/src/main.cpp.o -c /home/batabutter/cpp/scatterer_best_fit/src/main.cpp",
+  "file": "/home/batabutter/cpp/scatterer_best_fit/src/main.cpp",
+  "output": "CMakeFiles/scatter-best-fit.dir/src/main.cpp.o"
+}
+]

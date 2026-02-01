@@ -1,0 +1,3 @@
+/home/batabutter/cpp/scatterer_best_fit/CMakeFiles/scatter-best-fit.dir
+/home/batabutter/cpp/scatterer_best_fit/CMakeFiles/edit_cache.dir
+/home/batabutter/cpp/scatterer_best_fit/CMakeFiles/rebuild_cache.dir

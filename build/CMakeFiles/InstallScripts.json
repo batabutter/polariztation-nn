@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/batabutter/cpp/scatterer_best_fit/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
