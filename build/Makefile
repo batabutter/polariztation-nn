@@ -57,10 +57,10 @@ RM = /home/batabutter/miniconda3/lib/python3.13/site-packages/cmake/data/bin/cma
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/batabutter/cpp/scatterer_best_fit
+CMAKE_SOURCE_DIR = /home/batabutter/cpp/polariztation-nn
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/batabutter/cpp/scatterer_best_fit/build
+CMAKE_BINARY_DIR = /home/batabutter/cpp/polariztation-nn/build
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -87,9 +87,9 @@ rebuild_cache/fast: rebuild_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/batabutter/cpp/scatterer_best_fit/build/CMakeFiles /home/batabutter/cpp/scatterer_best_fit/build//CMakeFiles/progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/batabutter/cpp/polariztation-nn/build/CMakeFiles /home/batabutter/cpp/polariztation-nn/build//CMakeFiles/progress.marks
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/batabutter/cpp/scatterer_best_fit/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/batabutter/cpp/polariztation-nn/build/CMakeFiles 0
 .PHONY : all
 
 # The main clean target

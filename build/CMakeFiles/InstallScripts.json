@@ -1,7 +1,7 @@
 {
 	"InstallScripts" : 
 	[
-		"/home/batabutter/cpp/scatterer_best_fit/build/cmake_install.cmake"
+		"/home/batabutter/cpp/polariztation-nn/build/cmake_install.cmake"
 	],
 	"Parallel" : false
 }

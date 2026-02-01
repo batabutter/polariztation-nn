@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/batabutter/cpp/scatterer_best_fit/src/main.cpp" "CMakeFiles/scatter-best-fit.dir/src/main.cpp.o" "gcc" "CMakeFiles/scatter-best-fit.dir/src/main.cpp.o.d"
+  "/home/batabutter/cpp/polariztation-nn/src/main.cpp" "CMakeFiles/scatter-best-fit.dir/src/main.cpp.o" "gcc" "CMakeFiles/scatter-best-fit.dir/src/main.cpp.o.d"
   "" "scatter-best-fit" "gcc" "CMakeFiles/scatter-best-fit.dir/link.d"
   )
 

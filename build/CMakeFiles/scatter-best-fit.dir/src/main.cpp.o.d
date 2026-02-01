@@ -1,5 +1,5 @@
 CMakeFiles/scatter-best-fit.dir/src/main.cpp.o: \
- /home/batabutter/cpp/scatterer_best_fit/src/main.cpp \
+ /home/batabutter/cpp/polariztation-nn/src/main.cpp \
  /usr/include/stdc-predef.h \
  /home/batabutter/libtorch/include/torch/csrc/api/include/torch/torch.h \
  /home/batabutter/libtorch/include/torch/csrc/api/include/torch/all.h \

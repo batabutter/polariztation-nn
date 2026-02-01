@@ -6,5 +6,5 @@ CXX_DEFINES = -DUSE_C10D_GLOO -DUSE_DISTRIBUTED -DUSE_RPC -DUSE_TENSORPIPE
 
 CXX_INCLUDES = -isystem /home/batabutter/libtorch/include -isystem /home/batabutter/libtorch/include/torch/csrc/api/include
 
-CXX_FLAGS = -g -std=gnu++17
+CXX_FLAGS = -std=gnu++17
 
